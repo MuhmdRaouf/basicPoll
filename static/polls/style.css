@@ -1,0 +1,9 @@
+label, h1, li, a {
+    color: aliceblue;
+}
+
+body {
+    background: white url('../images/djangodesktop.jpg');
+    background-size: cover;
+}
+
